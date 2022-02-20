@@ -1,0 +1,11 @@
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.BLL.Abstract.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.BLL.Abstract.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.Entities.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.ViewModels.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.Entities.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\bin\Debug\toDoApp.ViewModels.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\obj\Debug\toDoApp.BLL.Abstract.csprojAssemblyReference.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\obj\Debug\toDoApp.BLL.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\obj\Debug\toDoApp.BLL.Abstract.csproj.CopyComplete
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\obj\Debug\toDoApp.BLL.Abstract.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.BLL.Abstract\obj\Debug\toDoApp.BLL.Abstract.pdb

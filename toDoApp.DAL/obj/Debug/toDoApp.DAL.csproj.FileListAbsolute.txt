@@ -1,0 +1,16 @@
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\toDoApp.DAL.dll.config
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\toDoApp.DAL.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\toDoApp.DAL.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\toDoApp.Entities.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\toDoApp.Entities.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.csprojAssemblyReference.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.Migrations.createDb.resources
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.csproj.GenerateResource.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.csproj.CopyComplete
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.DAL\obj\Debug\toDoApp.DAL.pdb

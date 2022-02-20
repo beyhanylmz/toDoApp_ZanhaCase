@@ -1,0 +1,6 @@
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\bin\Debug\toDoApp.ViewModels.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\bin\Debug\toDoApp.ViewModels.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\obj\Debug\toDoApp.ViewModels.csprojAssemblyReference.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\obj\Debug\toDoApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\obj\Debug\toDoApp.ViewModels.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.ViewModels\obj\Debug\toDoApp.ViewModels.pdb

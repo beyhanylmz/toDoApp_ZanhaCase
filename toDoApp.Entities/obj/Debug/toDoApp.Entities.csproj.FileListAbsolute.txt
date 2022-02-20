@@ -1,0 +1,6 @@
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\bin\Debug\toDoApp.Entities.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\bin\Debug\toDoApp.Entities.pdb
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\obj\Debug\toDoApp.Entities.csprojAssemblyReference.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\obj\Debug\toDoApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\obj\Debug\toDoApp.Entities.dll
+C:\Users\interaktifgrup4\Desktop\ToDoApp\toDoApp\toDoApp.Entities\obj\Debug\toDoApp.Entities.pdb
